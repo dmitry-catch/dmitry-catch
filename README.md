@@ -18,7 +18,7 @@ I’m **Dmitry**, a **Frontend Developer** with 4+ years of experience in buildi
 
 - Email: [dmitry5samohin@gmail.com](mailto:dmitry5samohin@gmail.com)  
 - Codewars: [dmitry...catch](https://www.codewars.com/users/dmitry...catch)
-- 
+
 <!--
 **dmitry-catch/dmitry-catch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
